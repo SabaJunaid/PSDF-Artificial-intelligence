@@ -1,0 +1,40 @@
+1. You have to develop a program that performs the following tasks:
+
+Create variables to store:
+University name
+Total number of students
+Scholarship budget
+Passing marks
+
+2. Create a list containing the names of at least 8 students.
+
+3. Create a tuple that stores available departments:
+
+	("CS", "SE", "AI", "DS", "IT")
+
+4.Use a loop to ask the user to enter:
+Student name
+Department
+Marks obtained
+Attendance percentage
+The program should continue taking input until the user enters "exit" as the student name.
+Use the break statement to stop the loop.
+
+5.Apply the following if conditions:
+If marks are greater than or equal to passing marks AND attendance is greater than 75:
+Print "Eligible for Exam"
+If marks are above 85 and attendance is greater than 80:
+Print "Scholarship Candidate"
+If attendance is below 50 or marks less than 50:
+Print "Student Not eligible"
+If department entered is not present in the tuple:
+Print "Invalid Department"
+
+6. Store all eligible students in a new list called passed_students.
+
+7. After the loop ends:
+Print total students entered.
+Print all passed students.
+Print all departments available from the tuple using a loop.
+Print the student with highest marks.
+Use proper formatted output statements.
