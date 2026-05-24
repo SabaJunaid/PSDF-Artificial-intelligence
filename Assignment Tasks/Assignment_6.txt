@@ -1,0 +1,5 @@
+Accessing the elements:
+1. Create a dictionary and then have list, tuple and set as values in it. After that you have to access each element from list, set and tuple
+2. Create a list, in it you have a dictionary, tuple and set and access its elements
+3. Create a Tuple, in it you have a dictionary, List and set and access its elements
+4. Create a Set, in it you have a dictionary, tuple and list and access its elements
