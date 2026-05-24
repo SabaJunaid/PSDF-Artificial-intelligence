@@ -1,0 +1,100 @@
+Task 1 Smart Salary Checker
+
+A company hires interns based on expected salary.
+
+Requirements
+Take student name
+Take expected salary
+If salary is less than 30000  print "Selected for Internship"
+
+Task 2 Login System
+Requirements
+Create predefined username and password
+Ask user for input
+If both correct  "Login Successful"
+Otherwise  "Invalid Credentials"
+
+Task 3 Product Discount Checker
+Requirements
+
+Input:
+
+Product price
+Membership status (yes/no)
+
+Rules:
+
+Member + price > 5000 → 20% discount
+Non-member + price > 5000 → 10% discount
+Otherwise → No discount
+
+Task 4 Product Discount Checker
+Requirements
+
+Input:
+
+Product price
+Membership status (yes/no)
+
+Rules:
+
+Member + price > 5000 → 20% discount
+Non-member + price > 5000 → 10% discount
+Otherwise → No discount
+
+Task 5  Fake Job Scam Detector
+Scenario
+
+A job offer is suspicious if:
+
+Salary > 500000
+AND experience required = 0
+Requirements
+
+Input:
+
+salary
+years of experience required
+
+If suspicious  "Possible Scam Job"
+Else  "Looks Reasonable"
+
+Project : AI Recruitment Decision System
+Scenario
+
+A software house wants an intelligent hiring system.
+
+Inputs
+Name
+Age
+CGPA
+Skills Count
+Experience
+Expected Salary
+Communication Score (1–10)
+Logic
+Reject Conditions
+
+Reject if:
+
+Age < 18
+CGPA < 2.7
+Skills < 3
+Fraud Detection
+
+Flag as suspicious if:
+
+Expected Salary > 400000
+AND Experience = 0
+Hiring Levels
+Intern
+CGPA ≥ 2.7
+Skills ≥ 3
+Junior Developer
+CGPA ≥ 3.0
+Skills ≥ 5
+Experience ≥ 1
+Software Engineer
+CGPA ≥ 3.3
+Skills ≥ 7
+Communication ≥ 7
